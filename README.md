@@ -1,20 +1,37 @@
-## 🚀 FMS Blue Galaxy
+FMS Blue Galaxy 🚀
 
-FMS Blue Galaxy is a web-based management system built to simplify structured data handling and user workflows. The project focuses on delivering a clean UI, modular architecture, and efficient data organization, making it suitable for real-world applications such as client management, tracking systems, or dashboard-based platforms.
+FMS Blue Galaxy is a Python-based offline File Management System designed for desktop use. It helps users efficiently organize, manage, and access files without relying on an internet connection.
 
-This project showcases practical frontend development skills including component-based design, state management, and scalable project structuring.
+🎯 Purpose
 
-### 💡 Key Highlights
+Managing files manually on a computer can be time-consuming and unorganized. This project provides a structured and user-friendly solution to handle files more efficiently.
 
-* Responsive and user-friendly interface
-* Modular component architecture
-* Organized folder structure for scalability
-* Real-world inspired workflow design
+⚙️ Features
+📂 File organization and management
+🔍 Search functionality for quick file access
+🗂️ Categorization of files
+🖥️ Offline usability (no internet required)
+⚡ Lightweight and fast performance
+🛠️ Tech Stack
+Python
+(Add: Tkinter / PyQt / CLI — whichever you used)
+🚀 How to Run
 
-### 🛠️ Tech Stack
+Clone the repository:
 
-* JavaScript / React (or your framework)
-* HTML, CSS
-* Modern UI practices
+git clone https://github.com/your-username/FMS-Blue-Galaxy.git
 
----
+Navigate to the project folder:
+
+cd FMS-Blue-Galaxy
+
+Run the application:
+
+python main.py
+📌 Future Improvements
+Add GUI enhancements
+File preview support
+Advanced filtering and sorting
+👤 Author
+
+Shubham Kumar Labh
