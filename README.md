@@ -16,6 +16,7 @@
 **Application Type:** Desktop File Management System  
 **Platform:** Windows 10/11 (Local Desktop Application)
 **Year:** © 2026 LABH PARIWAR
+**For Password and user name contact** : labhpariwar6@gmail.com
 
 ---
 
@@ -40,8 +41,9 @@ Blue Galaxy is a **professional Audit File Management System** designed specific
 1. **Download** `blue_galaxy.exe` from `dist/` folder
 2. **Double-click** to run (no installation needed!)
 3. **Login** with:
-   - Username: `admin`
-   - Password: `admin123`
+   - Username: `*****`
+   - Password: `********`
+   - (Email: labhpariwar6@gmail) to unlock password.
 
 ### From Source (For Developers):
 
@@ -322,7 +324,7 @@ pyinstaller --onefile --windowed main.py
 ## 📝 License
 
 **Proprietary Software**  
-Copyright © 2024 LABH PARIWAR  
+Copyright © 2026 LABH PARIWAR  
 All Rights Reserved
 
 ---
@@ -332,7 +334,7 @@ All Rights Reserved
 ### First Time Users:
 1. Extract/Download application
 2. Run `blue_galaxy.exe`
-3. Login with `admin` / `admin123`
+3. Login with `*****` / `********`
 4. Read [USER_GUIDE.md](USER_GUIDE.md)
 
 ### Administrators:
